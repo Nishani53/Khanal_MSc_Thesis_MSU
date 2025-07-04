@@ -1,3 +1,7 @@
+## 📘 Open the Notebook in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nishani53/Khanal_MSc_Thesis_MSU/blob/main/Khanal_MSU_project_Competition_Hotspots_1980s-2020s/Khanal_MSU_project_competition_hotspots_1980s-2020s.ipynb)
+
 # 🌲 Competition Hotspot for Forest Products in Michigan (1980s–2020s)
 
 This Python-based spatial analysis identifies **market competition hotspots** for forest products across **Michigan** from the **1980s through the 2020s**. Using **existing road networks** and **haul time as a proxy for cost**, the model visualizes competitive intensity among mills for various forest products across five decades.

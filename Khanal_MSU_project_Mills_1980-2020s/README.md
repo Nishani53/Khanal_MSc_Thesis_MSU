@@ -1,6 +1,6 @@
 ## 📘 Open the Notebook in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nishani53/Khanal_MSc_Thesis_MSU/blob/main/Khanal_MSU_project_Mills_1980-2020s.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nishani53/Khanal_MSc_Thesis_MSU/blob/main/Khanal_MSU_project_Mills_1980-2020s/Khanal_MSU_project_Mills_1980-2020s.ipynb)
 
 
 # 🏭 Mill Facility Mapping in Michigan (1980s–2020s)

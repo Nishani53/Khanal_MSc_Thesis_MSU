@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nishani53/Khanal_MSc_Thesis_MSU/blob/main/Khanal_MSU_project_Hotspot_area_1980s-2020s/Khanal_MSU_project_hotspot_area_1980s_2020s.ipynb)
+
 # 🌲 Forest Product Market Coverage & Competition Intensity Analysis (Michigan, 1980s–2020s)
 
 This project analyzes the **spatial extent of forest market coverage** and **competition intensity** across four major forest product types in Michigan:  

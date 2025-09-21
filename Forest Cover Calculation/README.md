@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Nishani53/Khanal_MSc_Thesis_MSU/blob/main/Forest%20Cover%20Calculation/Forest%20Coverage%20Analysis.ipynb
+)
 
 
 # 🌲 Forest Market Coverage & Forest Area Overlay Analysis
